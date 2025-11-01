@@ -1,0 +1,11 @@
+main things.
+
+- detect the object
+- draw the region of area (2 areas, track objects in this area only)
+
+what we do here.
+
+- detect and countiong person who entering and go out from the hotel.
+
+
+
